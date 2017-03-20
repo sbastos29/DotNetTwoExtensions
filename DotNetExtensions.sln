@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetTwoExtensions", "DotNetTwoExtensions\DotNetTwoExtensions.csproj", "{F3EA01BC-4BF6-41F6-8EFE-33D84CBC2195}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingDotNetTwoExtensions", "UsingDotNetTwoExtensions\UsingDotNetTwoExtensions.csproj", "{9EAD8E2C-A7EF-45C5-92FB-49BA7ACD500D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3EA01BC-4BF6-41F6-8EFE-33D84CBC2195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3EA01BC-4BF6-41F6-8EFE-33D84CBC2195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3EA01BC-4BF6-41F6-8EFE-33D84CBC2195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3EA01BC-4BF6-41F6-8EFE-33D84CBC2195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EAD8E2C-A7EF-45C5-92FB-49BA7ACD500D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EAD8E2C-A7EF-45C5-92FB-49BA7ACD500D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EAD8E2C-A7EF-45C5-92FB-49BA7ACD500D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EAD8E2C-A7EF-45C5-92FB-49BA7ACD500D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
